@@ -10,8 +10,6 @@ int main()
     int n, m, p;
     n = sizeof(A1)/sizeof(A1[0]);
     m = sizeof(A2)/sizeof(A2[0]);
-    //n = 5;
-    //m = 4;
 
     cout<<"Elements of Array 1 are: ";
     for(p=0; p<n; p++)
